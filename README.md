@@ -10,15 +10,21 @@ title, as would be displayed in the <title> tag of a HTML page.
 ## Examples
 
 `<r:site:title />`
+
 *outputs*
+
 Your Site Title
 
 `<r:site:title with_page_title="true" />`
+
 *outputs*
+
 Your Page Title » Your Site Title
 
 `<r:site:title with_page_title="true" separator=" | " />`
+
 *outputs*
+
 Your Page Title | Your Site Title
 
 Created by [Small Spark](http://www.smallspark.com.au) and released as
