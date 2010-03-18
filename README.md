@@ -1,4 +1,4 @@
-== Site Title
+# Site Title
 
 This simple extension for Radiant CMS provides a tag for the output of
 the title of the site. The site title should be set in a configuration
@@ -7,19 +7,19 @@ setting with a key of 'site.title'.
 Also allows for the option to output the site title along with the page
 title, as would be displayed in the <title> tag of a HTML page.
 
-= Examples
+## Examples
 
-<r:site:title />
-outputs
+`<r:site:title />`
+*outputs*
 Your Site Title
 
-<r:site:title with_page_title="true" />
-outputs
+`<r:site:title with_page_title="true" />`
+*outputs*
 Your Page Title » Your Site Title
 
-<r:site:title with_page_title="true" separator=" | " />
-outputs
+`<r:site:title with_page_title="true" separator=" | " />`
+*outputs*
 Your Page Title | Your Site Title
 
-Created by Small Spark (http://www.smallspark.com.au) and released as
-free software under the GNU General Public Licence v3.
+Created by [Small Spark](http://www.smallspark.com.au) and released as
+free software under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
