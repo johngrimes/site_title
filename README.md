@@ -26,6 +26,3 @@ Your Page Title » Your Site Title
 *outputs*
 
 Your Page Title | Your Site Title
-
-Created by [Small Spark](http://www.smallspark.com.au) and released as
-free software under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
